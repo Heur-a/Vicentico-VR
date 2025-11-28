@@ -1976,6 +1976,75 @@ MonoBehaviour:
   m_LimitAngularVelocity: 0
   m_MaxLinearVelocityDelta: 10
   m_MaxAngularVelocityDelta: 20
+--- !u!1001 &795341105
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.829
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.166192
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.096
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.2988515
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.2988515
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.64084935
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.6408492
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 129.997
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
+      propertyPath: m_Name
+      value: Watering_can_lp
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aadc026c877817143aa68293ac96d3aa, type: 3}
 --- !u!1 &856229215
 GameObject:
   m_ObjectHideFlags: 0
@@ -7432,3 +7501,4 @@ SceneRoots:
   - {fileID: 26186324}
   - {fileID: 72523046}
   - {fileID: 1536108500}
+  - {fileID: 795341105}
