@@ -320,10 +320,6 @@ PrefabInstance:
       value: mas (2)
       objectReference: {fileID: 0}
     - target: {fileID: 6401764231172373269, guid: 8044632cb3b5a4049b4fc9a7c8c0da84, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: cd3fda6e9e9ff634a9ad55323c92435d, type: 3}
-    - target: {fileID: 6401764231172373269, guid: 8044632cb3b5a4049b4fc9a7c8c0da84, type: 3}
       propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
