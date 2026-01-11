@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794b1ef060caed749aa1e2735b4727d2, type: 3}
+  m_Name: RegaderaData
+  m_EditorClassIdentifier: 
+  duracionRiego: 2
+  cantidadInicial: 1
+  config: {fileID: 11400000, guid: a9e19324c8db4784e97308d2af28aacf, type: 2}
